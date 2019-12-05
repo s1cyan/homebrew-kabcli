@@ -7,7 +7,7 @@ class Kabcli < Formula
   #url "https://github.com/s1cyan/kabanero-command-line/releases/download/v0.3-t.14/kabanero-v0.3-t.14-homebrew-amd64.tar.gz"
   url "https://github.com/s1cyan/kabanero-command-line.git"
     :tag      => "v0.3-t.14"
-  sha256 "54b6e88a4f7b0b30987eba96f4d12311b6e61f4c96fa584c78c1a8e19abbcdbc"
+  sha256 "3466cba537640ea58c980307f59230400bd03b08b82320a54e76076e4638acbe"
   head "https://github.com/s1cyan/kabanero-command-line.git" 
 
   # depends_on "cmake" => :build
