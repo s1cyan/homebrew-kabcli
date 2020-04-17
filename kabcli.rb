@@ -4,7 +4,7 @@
 class Kabcli < Formula
   desc "kabanero cli test description"
   homepage "https://kabanero.io/"
-  url "https://github.com/kabanero-io/kabanero-command-line/releases/download/0.7.0/kabanero-0.7.0-homebrew-amd64.tar.gz"
+  url "https://github.com/kabanero-io/kabanero-command-line/releases/download/0.8.0/kabanero-0.8.0-homebrew-amd64.tar.gz"
 #   url "https://github.com/s1cyan/kabanero-command-line.git"
   sha256 "12998ffc2b1fd9b9b996ea3a2d9afbbcdc38932a88b4f1097a325d0368bee7f2"
 
